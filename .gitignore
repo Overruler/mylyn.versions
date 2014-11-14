@@ -2,3 +2,4 @@
 /org.eclipse*/target
 *.rej
 *~
+/.project
